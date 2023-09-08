@@ -1,3 +1,3 @@
 # Spring MVC
 
-![](cars.png)
+![Image](cars.png)
